@@ -1,0 +1,43 @@
+{
+  "navigations": [
+    {
+      "id": "dev",
+      "name": "Development",
+      "icon": "code",
+      "sort_order": 1,
+      "items": [
+        {
+          "id": "github",
+          "title": "GitHub",
+          "url": "https://github.com",
+          "description": "Where the world builds software",
+          "sort_order": 1,
+          "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+        },
+        {
+          "id": "stackoverflow",
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "Developer community",
+          "sort_order": 2,
+          "favicon": ""
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "icon": "tool",
+      "sort_order": 2,
+      "items": [
+        {
+          "id": "chatgpt",
+          "title": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "AI Assistant",
+          "sort_order": 1
+        }
+      ]
+    }
+  ]
+}
