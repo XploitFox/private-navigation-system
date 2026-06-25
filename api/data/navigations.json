@@ -1,0 +1,28 @@
+{
+  "navigations": [
+    {
+      "id": "1774452281813",
+      "name": "新分类",
+      "icon": "folder",
+      "sort_order": 1,
+      "items": [
+        {
+          "id": "1774452286460",
+          "title": "Curated High-Quality, Open-Source, and Free Vector Icons",
+          "url": "https://yesicon.app/",
+          "description": "223 icon sets with 290k+ icons, search across icon sets in multiple languages, rich filtering by type and style, quick customization of icon colors, sizes and code styles, one-click copy and download for developers and designers",
+          "sort_order": 1,
+          "favicon": "https://icons.duckduckgo.com/ip3/dash.cloudflare.com.ico"
+        },
+        {
+          "id": "1774453024641",
+          "title": "Curated High-Quality, Open-Source, and Free Vector Icons",
+          "url": "https://yesicon.app/",
+          "description": "223 icon sets with 290k+ icons, search across icon sets in multiple languages, rich filtering by type and style, quick customization of icon colors, sizes and code styles, one-click copy and download for developers and designers",
+          "sort_order": 2,
+          "favicon": "https://icons.duckduckgo.com/ip3/yesicon.app.ico"
+        }
+      ]
+    }
+  ]
+}
